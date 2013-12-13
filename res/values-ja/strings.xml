@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">クイック設定トグル</string>
+    <string name="app_desc">好きなトグルをライトに変更したり、画面輝度トグルを輝度スライダーに変更します</string>
+    
+    <string name="brightness_settings_title">画面輝度</string>
+    <string name="brightness_settings_summary">画面輝度 設定</string>
+    <string name="automatic_brightness">明るさを自動調整</string>
+    
+    <string name="is_hook_brightness_key">IsHookBrightnessKey</string>
+    <string name="is_hook_brightness_title">画面輝度 トグル</string>
+    <string name="is_hook_brightness_summary">通知バー画面輝度トグルをスライダーに変更する</string>
+    
+    <string name="flashlight_settings_title">ライト</string>
+    <string name="flashlight_settings_summary">ライト  設定</string>
+    <string name="flashlight_text">ライト</string>
+    
+    <string name="is_hook_flashlight_key">IsHookFlashLightKey</string>
+    <string name="is_hook_flashlight_title">ライトトグル</string>
+    <string name="is_hook_flashlight_summary">指定トグルをライトに変更する</string>
+    
+    <string name="hook_flashlight_target_key">HookFlashLightTargetkey</string>
+    <string name="hook_flashlight_target_title">変更対象トグル</string>
+    <string name="hook_flashlight_target_summary">変更するトグル : %1$s</string>
+    <string name="hook_flashlight_target_chooser_title">変更対象トグルを選択</string>
+    
+    <string name="hook_flashlight_collapse_key">HookFlashLightCollapsekey</string>
+    <string name="hook_flashlight_collapse_title">ライトトグル オプション</string>
+    <string name="hook_flashlight_collapse_summary">ライトトグル時に通知バーを閉じる</string>
+</resources>

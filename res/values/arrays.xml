@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="flashlight_action_text_list">
+        <item name="xcustom_action_text_airplane">AirplaneMode</item>
+        <item name="xcustom_action_text_autorotate">AutoRotate</item>
+        <item name="xcustom_action_text_autosync">AutoSync</item>
+        <item name="xcustom_action_text_bluetooth">Bluetooth</item>
+        <item name="xcustom_action_text_brightness">Brightness</item>
+        <item name="xcustom_action_text_dataTraffic">DataTraffic</item>
+        <item name="xcustom_action_text_gps">Gps</item>
+        <item name="xcustom_action_text_lte">LTE</item>
+        <item name="xcustom_action_text_nfc">NFC</item>
+        <item name="xcustom_action_text_roaming">RoamingShortcut</item>
+        <item name="xcustom_action_text_settings">SettingsShortcut</item>
+        <item name="xcustom_action_text_sound">Sound</item>
+        <item name="xcustom_action_text_stamina">Stamina</item>
+        <item name="xcustom_action_text_tethering">Tethering</item>
+        <item name="xcustom_action_text_throw">Throw</item>
+        <item name="xcustom_action_text_wifi">Wifi</item>
+    </string-array>
+    <string-array name="flashlight_action_value_list">
+        <item name="xcustom_action_airplane">createAirplaneMode</item>
+        <item name="xcustom_action_autorotate">createAutoRotate</item>
+        <item name="xcustom_action_autosync">createAutoSync</item>
+        <item name="xcustom_action_bluetooth">createBluetooth</item>
+        <item name="xcustom_action_brightness">createBrightness</item>
+        <item name="xcustom_action_dataTraffic">createDataTraffic</item>
+        <item name="xcustom_action_gps">createGps</item>
+        <item name="xcustom_action_lte">createLte</item>
+        <item name="xcustom_action_nfc">createNFC</item>
+        <item name="xcustom_action_roaming">createRoamingShortcut</item>
+        <item name="xcustom_action_settings">createSettingsShortcut</item>
+        <item name="xcustom_action_sound">createSound</item>
+        <item name="xcustom_action_stamina">createStamina</item>
+        <item name="xcustom_action_tethering">createTethering</item>
+        <item name="xcustom_action_throw">createThrow</item>
+        <item name="xcustom_action_wifi">createWifi</item>
+    </string-array>
+
+</resources>

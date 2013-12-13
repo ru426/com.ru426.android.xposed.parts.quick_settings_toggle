@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickSetting Tools</string>
+    <string name="app_desc">Change one to FlashLight toggle, Change the Brightness toggle function to slider control</string>
+    
+    <string name="brightness_settings_title">Brightness</string>
+    <string name="brightness_settings_summary">Brightness Settings</string>
+    <string name="automatic_brightness">Adapt to lighting conditions</string>
+    
+    <string name="is_hook_brightness_key">IsHookBrightnessKey</string>
+    <string name="is_hook_brightness_title">Brightness toggle</string>
+    <string name="is_hook_brightness_summary">Change Brightness function\non SONY QuickSetting to SliderDialog</string>
+    
+    <string name="flashlight_settings_title">FlashLight</string>
+    <string name="flashlight_settings_summary">FlashLight Settings</string>
+    <string name="flashlight_text">Flash</string>
+    
+    <string name="is_hook_flashlight_key">IsHookFlashLightKey</string>
+    <string name="is_hook_flashlight_title">FlashLight toggle</string>
+    <string name="is_hook_flashlight_summary">Change one function\non SONY QuickSetting to FlashLight</string>
+    
+    <string name="hook_flashlight_target_key">HookFlashLightTargetkey</string>
+    <string name="hook_flashlight_target_title">Change toggle target</string>
+    <string name="hook_flashlight_target_summary">Target Action : %1$s</string>
+    <string name="hook_flashlight_target_chooser_title">Choose switch toggle target</string>
+    
+    <string name="hook_flashlight_collapse_key">HookFlashLightCollapsekey</string>
+    <string name="hook_flashlight_collapse_title">Collapse Option</string>
+    <string name="hook_flashlight_collapse_summary">Collapse status bar when toggle FlashLight</string>
+</resources>
